@@ -1,4 +1,4 @@
-Carl Restaurant is a delightful dining destination that specializes in Asian cuisine1
+Carl Restaurant is a delightful dining destination that specializes in Asian cuisine
 . The restaurant offers a wide range of Asian dishes, including sushi, sashimi, tempura, and various noodle and rice dishes. Each dish is crafted with fresh, high-quality ingredients to provide an authentic and flavorful experience.
 
 Asian Food at Carl Restaurant
