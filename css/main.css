@@ -1,24 +1,4 @@
-/*
 
-	Template Author : pixelhint.com
-	Author Email    : contact@pixelhint.com
-	Template Name   : Sublime
-	
-	
-	*****************************************
-	
-	
-    - fonts
-    - general css
-    - billboard
-    - header
-    - services
-    - video
-    - testimonials
-    - blog posts
-	- footer
-	
-*/
 
 
 
@@ -95,7 +75,7 @@ h5, h6          { font-weight: bolder }
 }  
  
 .clearfix {  
-    *zoom: 1;  
+    *zoom: 1;
 }
 
 
@@ -116,7 +96,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard.light{
-    background: url('../img/homepage_pic.JPG') no-repeat;   
+    background: url('../img/homepage_pic.jpg') no-repeat;   
      
     background-size: cover;
     -webkit-background-size: cover;
